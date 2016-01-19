@@ -1,0 +1,16 @@
+body{
+	text-align:center;
+	background :url("../img/star.jpg");
+}
+#white {
+	color:white;
+}
+
+#yourHoroscope {
+	color: white;
+	font-size:22px;
+}
+#yourSign {
+	color: white;
+
+}
